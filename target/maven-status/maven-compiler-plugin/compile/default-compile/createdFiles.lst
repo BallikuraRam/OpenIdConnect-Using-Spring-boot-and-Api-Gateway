@@ -1,0 +1,4 @@
+org\example\api\AuthController.class
+org\example\config\SecurityConfiguration.class
+org\example\api\AuthResponse.class
+org\example\Main.class
